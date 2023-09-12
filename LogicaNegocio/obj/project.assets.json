@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3\\LogicaNegocio\\LogicaNegocio.csproj",
+      "projectUniqueName": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3_2023\\LogicaNegocio\\LogicaNegocio.csproj",
       "projectName": "LogicaNegocio",
-      "projectPath": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3\\LogicaNegocio\\LogicaNegocio.csproj",
+      "projectPath": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3_2023\\LogicaNegocio\\LogicaNegocio.csproj",
       "packagesPath": "C:\\Users\\matel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3\\LogicaNegocio\\obj\\",
+      "outputPath": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3_2023\\LogicaNegocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matel\\AppData\\Roaming\\NuGet\\NuGet.Config",

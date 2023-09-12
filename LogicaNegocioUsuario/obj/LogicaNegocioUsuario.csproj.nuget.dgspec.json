@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matel\\Desktop\\Obligatorio1_P3\\LogicaNegocioUsuario\\LogicaNegocioUsuario.csproj": {}
+    "C:\\Users\\matel\\Desktop\\Obligatorio1_P3_2023\\LogicaNegocioUsuario\\LogicaNegocioUsuario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matel\\Desktop\\Obligatorio1_P3\\LogicaNegocioUsuario\\LogicaNegocioUsuario.csproj": {
+    "C:\\Users\\matel\\Desktop\\Obligatorio1_P3_2023\\LogicaNegocioUsuario\\LogicaNegocioUsuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3\\LogicaNegocioUsuario\\LogicaNegocioUsuario.csproj",
+        "projectUniqueName": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3_2023\\LogicaNegocioUsuario\\LogicaNegocioUsuario.csproj",
         "projectName": "LogicaNegocioUsuario",
-        "projectPath": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3\\LogicaNegocioUsuario\\LogicaNegocioUsuario.csproj",
+        "projectPath": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3_2023\\LogicaNegocioUsuario\\LogicaNegocioUsuario.csproj",
         "packagesPath": "C:\\Users\\matel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3\\LogicaNegocioUsuario\\obj\\",
+        "outputPath": "C:\\Users\\matel\\Desktop\\Obligatorio1_P3_2023\\LogicaNegocioUsuario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matel\\AppData\\Roaming\\NuGet\\NuGet.Config",

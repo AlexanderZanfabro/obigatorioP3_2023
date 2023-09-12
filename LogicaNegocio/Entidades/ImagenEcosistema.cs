@@ -3,17 +3,19 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace LogicaNegocio.Entidades
 {
-    public class Ubicacion
+    public class ImagenEcosistema
     {
-        [Key, ForeignKey(nameof(UbicacionDelEcosistema))]
+        [Key, ForeignKey(nameof(EcosistemaMarinoDeLaImagen))]
+        public int EcosistemaMarinoId { get; set; }
+        public string? Imagen { get; set; }
         public string? NombreEcosistema { get; set; }
-        public decimal? Latitud { get; set;}
-        public decimal? Longitud { get; set;}
-        public EcosistemaMarino? UbicacionDelEcosistema {get; set;}
+
+        public EcosistemaMarino? EcosistemaMarinoDeLaImagen { get; set; }
     }
 }
